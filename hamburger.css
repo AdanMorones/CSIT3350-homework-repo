@@ -1,0 +1,58 @@
+div {
+    width: 250px;
+}
+
+.bun {
+    background-color: darkgoldenrod;
+}
+
+.topBun {
+    height: 60px;
+    border-radius: 40px 40px 5px 5px;
+}
+
+.bottomBun {
+    height: 30px;
+    border-radius: 5px 5px 20px 20px;
+}
+
+.inbetweens {
+    border-radius: 5px 5px 5px 5px;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+}
+
+.small {
+    height: 10px;
+}
+
+.medium {
+    height: 15px;
+}
+
+.lettuce {
+    background-color: green;
+    border-bottom-color: hsl(120, 100%, 15%);
+}
+
+.tomato {
+    background-color: red;
+    border-bottom-color: hsl(0, 100%, 35%);
+}
+
+.onion {
+    background-color: purple;
+    border-bottom-color: hsl(300, 100%, 15%);
+}
+
+.cheese {
+    background-color: yellow;
+    border-bottom-color: hsl(60, 100%, 45%);
+}
+
+#patty {
+    height: 20px;
+    background-color: brown;
+    border-bottom-width: 10px;
+    border-bottom-color: hsl(0, 59%, 21%);
+}
