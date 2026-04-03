@@ -1,5 +1,5 @@
 img {
-    transition: all 4s ease;
+    transition: transform 5s ease;
 }
 
 img:hover {
