@@ -1,5 +1,5 @@
 img {
-    transition: transform 10s linear;
+    transition: transform 3s linear;
 }
 
 img:hover {
