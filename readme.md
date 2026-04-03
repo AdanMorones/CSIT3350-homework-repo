@@ -1,3 +1,3 @@
-# This is the readme for this repository.
+# Welcome to the repository for Adan's CSIT3350-500 homework!
 
-The link to view the html and css as a webpage is found [here](https://adanmorones.github.io/CSIT3350-homework-repo/src/fidget-spinner.html).
+To view the html and css homework as a webpage, click [here](https://adanmorones.github.io/CSIT3350-homework-repo/src/fidget-spinner.html).
