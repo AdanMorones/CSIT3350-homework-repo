@@ -3,4 +3,6 @@ img {
     width: 50%;
 }
 
-img:hover {}
+img:hover {
+    transform: rotate(90);
+}
