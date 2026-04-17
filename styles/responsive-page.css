@@ -1,12 +1,10 @@
-@media screen and (max-width: 599px) {
-    main {
-        display: flex;
-        background-color: #5f259f;
-    }
+#wrapper {
+    display: flex;
+    background-color: #5f259f;
+}
 
-    a {
-        color: #ffcc00;
-    }
+a {
+    color: #ffcc00;
 }
 
 @media screen and (min-width: 600px) {
