@@ -13,7 +13,7 @@
 
 @media screen and (min-width: 600px) {
     body {
-        background: url("/images/magnifying-glass.jpg") fixed no-repeat left top #0000aa;
+        background: url("../images/magnifying-glass.jpg") fixed no-repeat left top #0000aa;
         background-size: 200%;
     }
 }
