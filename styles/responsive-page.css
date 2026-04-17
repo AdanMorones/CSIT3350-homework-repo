@@ -1,0 +1,16 @@
+@media screen and (max-width: 599px) {
+    main {
+        display: flex;
+        background-color: #5f259f;
+    }
+
+    a {
+        color: #ffcc00;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    main {
+        background-image: "../src/images/magnifying-glass.jpg";
+    }
+}
