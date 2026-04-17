@@ -8,7 +8,7 @@ a {
 }
 
 @media screen and (min-width: 600px) {
-    main {
+    body {
         background-image: url("/images/magnifying-glass.jpg");
     }
 }
