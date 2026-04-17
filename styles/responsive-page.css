@@ -1,14 +1,19 @@
-#wrapper {
-    display: flex;
-    background-color: #5f259f;
-}
+@media screen and (max-width: 599px) {
 
-a {
-    color: #ffcc00;
+    #wrapper {
+        background-color: #5f259f;
+        color: white;
+    }
+
+    a {
+        color: #ffcc00;
+    }
+
 }
 
 @media screen and (min-width: 600px) {
     body {
-        background: url("https://images.unsplash.com/photo-1586769852836-bc069f19e1b6") no-repeat fixed center #0000aa;
+        background: url("/images/magnifying-glass.jpg") fixed no-repeat left top #0000aa;
+        background-size: 200%;
     }
 }
