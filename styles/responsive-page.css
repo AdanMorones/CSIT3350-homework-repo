@@ -10,5 +10,6 @@ a {
 @media screen and (min-width: 600px) {
     body {
         background-image: url("../images/magnifying-glass.jpg");
+        background-color: #0000aa;
     }
 }
