@@ -16,4 +16,8 @@
         background: url("../images/magnifying-glass.jpg") fixed no-repeat left top #0000aa;
         background-size: 200%;
     }
+
+    a {
+        color:#0000ff
+    }
 }
